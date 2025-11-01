@@ -50,5 +50,5 @@ Isso representa uma **redução de aproximadamente 17,7%** no tempo médio de co
 
 Os dados brutos para esta análise foram coletados através da plataforma Maze.
 
-* [cite_start]**Relatório Teste A:** `https://app.maze.co/report/Teste-A/1js3o7mgf6t83a/intro` [cite: 1]
-* [cite_start]**Relatório Teste B:** `https://app.maze.co/report/Teste-B/1siu7mgv7n5hx/intro` [cite: 1]
+* **Relatório Teste A:** `https://app.maze.co/report/Teste-A/1js3o7mgf6t83a/intro`
+* **Relatório Teste B:** `https://app.maze.co/report/Teste-B/1siu7mgv7n5hx/intro` 
